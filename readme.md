@@ -11,3 +11,4 @@
 * https://startbootstrap.com/
 * http://themonkeythemes.com
 * https://colorlib.com
+* https://getstisla.com
